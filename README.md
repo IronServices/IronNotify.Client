@@ -198,8 +198,6 @@ services.AddSingleton<NotifyClient>(sp =>
 
 - [Documentation](https://www.ironnotify.com/docs)
 - [Dashboard](https://www.ironnotify.com)
-- [API Reference](https://www.ironnotify.com/docs/api)
-- [Support](https://www.ironnotify.com/app/tickets)
 
 ## License
 
